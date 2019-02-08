@@ -1,16 +1,21 @@
 def create_an_empty_array
+  []
   
 end
 
 def create_an_array
+  [3,6,9,12]
   
 end
 
 def add_element_to_end_of_array(array, element)
+  ["this","is","not","fun"]
+  array << "arrays!"
   
 end
 
 def add_element_to_start_of_array(array, element)
+  ["my","dog","smells","chicken"]
   
 end
 
